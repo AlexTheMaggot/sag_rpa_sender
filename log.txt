@@ -1,0 +1,60 @@
+[2023-10-05 14:03:16.917844] - Succesful sending file
+[2023-10-05 14:03:25.683498] - Succesful sending file
+[2023-10-05 14:03:28.143945] - Succesful sending file
+[2023-10-05 14:03:29.762524] - Succesful sending file
+[2023-10-05 14:03:31.276997] - Succesful sending file
+[2023-10-05 14:03:32.795221] - Succesful sending file
+[2023-10-05 14:27:50.178338] - Succesful sending file
+[2023-10-05 14:28:22.315161] - Connection Error
+[2023-10-05 14:51:57.249829] - Succesful sending file
+[2023-10-05 14:52:30.647490] - Succesful sending file
+[2023-10-05 14:52:53.446104] - Succesful sending file
+[2023-10-05 14:53:09.833956] - Succesful sending file
+[2023-10-05 14:54:02.630608] - Succesful sending file
+[2023-10-05 14:54:22.009010] - Succesful sending file
+[2023-10-05 14:54:47.974877] - Succesful sending file
+[2023-10-05 14:55:29.185258] - Other Error
+[2023-10-05 14:55:38.434146] - Succesful sending file
+[2023-10-05 14:55:59.826761] - Succesful sending file
+[2023-10-05 14:57:12.902977] - Connection Error
+[2023-10-05 14:58:01.914312] - Connection Error
+[2023-10-05 14:58:37.345773] - Telegram Error (Not Found)
+[2023-10-05 15:07:54.255523] - Connection Error
+[2023-10-05 15:08:04.265182] - Connection Error
+[2023-10-05 15:08:16.283231] - Connection Error
+[2023-10-05 15:08:26.301486] - Connection Error
+[2023-10-05 15:08:38.334678] - Connection Error
+[2023-10-05 15:08:48.338972] - Connection Error
+[2023-10-05 15:08:58.353912] - Connection Error
+[2023-10-05 15:09:08.365886] - Connection Error
+[2023-10-05 15:09:18.374422] - Connection Error
+[2023-10-05 15:09:28.386405] - Connection Error
+[2023-10-05 15:09:38.406487] - Connection Error
+[2023-10-05 15:09:48.927084] - Telegram Error (Bad Request: file must be non-empty)
+[2023-10-05 15:11:53.861490] - Connection Error
+[2023-10-05 15:12:03.867251] - Connection Error
+[2023-10-05 15:12:13.873298] - Connection Error
+[2023-10-05 15:12:24.306591] - Telegram Error (Bad Request: file must be non-empty)
+[2023-10-05 15:16:55.985549] - Connection Error
+[2023-10-05 15:17:06.001609] - Connection Error
+[2023-10-05 15:17:16.012828] - Connection Error
+[2023-10-05 15:17:26.023149] - Connection Error
+[2023-10-05 15:17:36.038066] - Connection Error
+[2023-10-05 15:17:46.079918] - Connection Error
+[2023-10-05 15:17:58.479905] - Succesful sending file
+[2023-10-05 15:26:20.410201] - Other Error
+[2023-10-05 15:27:07.030629] - Other Error
+[2023-10-05 15:47:30.162902] - Other Error
+[2023-10-05 15:47:42.907557] - Other Error
+[2023-10-05 15:48:06.291966] - Other Error
+[2023-10-05 15:48:48.048272] - Other Error
+[2023-10-05 15:48:58.111215] - Other Error
+[2023-10-05 15:49:09.166732] - Other Error
+[2023-10-05 15:49:18.694180] - Other Error
+[2023-10-05 15:51:01.738753] - Other Error (TypeError: unsupported operand type(s) for +: 'int' and 'str')
+[2023-10-05 15:51:13.792763] - Other Error (TypeError: unsupported operand type(s) for +: 'int' and 'str')
+[2023-10-05 17:11:03.270512] - Other Error (PermissionError: [Errno 13] Permission denied: 'C:/Users/E-MaxUser/Desktop/test/__pycache__')
+[2023-10-05 17:11:46.262830] - Succesful sending file
+[2023-10-05 17:26:07.110266] - Succesful sending file
+[2023-10-07 10:03:25.586158] - Other Error (FileNotFoundError: [Errno 2] No such file or directory: 'C:/RPA/OneDrive - SAG/Prod/Module 1 Sales Orders/Processing321.txt')
+[2023-10-07 10:14:10.689900] - Succesful sending file
